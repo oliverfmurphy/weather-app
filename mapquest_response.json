@@ -1,0 +1,325 @@
+{
+info: {
+statuscode: 0,
+copyright: {
+text: "© 2018 MapQuest, Inc.",
+imageUrl: "http://api.mqcdn.com/res/mqlogo.gif",
+imageAltText: "© 2018 MapQuest, Inc."
+},
+messages: [ ]
+},
+options: {
+maxResults: -1,
+thumbMaps: true,
+ignoreLatLngInput: false
+},
+results: [
+{
+providedLocation: {
+location: "1301 lombard street"
+},
+locations: [
+{
+street: "Lombard Street",
+adminArea6: "",
+adminArea6Type: "Neighborhood",
+adminArea5: "City of London",
+adminArea5Type: "City",
+adminArea4: "",
+adminArea4Type: "County",
+adminArea3: "England",
+adminArea3Type: "State",
+adminArea1: "GB",
+adminArea1Type: "Country",
+postalCode: "SE15",
+geocodeQualityCode: "B1AXX",
+geocodeQuality: "STREET",
+dragPoint: false,
+sideOfStreet: "N",
+linkId: "0",
+unknownInput: "",
+type: "s",
+latLng: {
+lat: 51.512027,
+lng: -0.085618
+},
+displayLatLng: {
+lat: 51.512027,
+lng: -0.085618
+},
+mapUrl: "http://www.mapquestapi.com/staticmap/v5/map?key=qBDY5DY7Xl3O4TXeuIFEZepJhx9SuD0q&type=map&size=225,160&locations=51.5120273,-0.0856184|marker-sm-50318A-1&scalebar=true&zoom=15&rand=-390875883"
+},
+{
+street: "Lombard Street",
+adminArea6: "Halton Moor",
+adminArea6Type: "Neighborhood",
+adminArea5: "Leeds",
+adminArea5Type: "City",
+adminArea4: "",
+adminArea4Type: "County",
+adminArea3: "England",
+adminArea3Type: "State",
+adminArea1: "GB",
+adminArea1Type: "Country",
+postalCode: "LS15 0LT",
+geocodeQualityCode: "B1AXX",
+geocodeQuality: "STREET",
+dragPoint: false,
+sideOfStreet: "N",
+linkId: "0",
+unknownInput: "",
+type: "s",
+latLng: {
+lat: 53.793353,
+lng: -1.475762
+},
+displayLatLng: {
+lat: 53.793353,
+lng: -1.475762
+},
+mapUrl: "http://www.mapquestapi.com/staticmap/v5/map?key=qBDY5DY7Xl3O4TXeuIFEZepJhx9SuD0q&type=map&size=225,160&locations=53.7933531,-1.4757616|marker-sm-50318A-2&scalebar=true&zoom=15&rand=-314742960"
+},
+{
+street: "Lombard Street",
+adminArea6: "Old Town",
+adminArea6Type: "Neighborhood",
+adminArea5: "Hull",
+adminArea5Type: "City",
+adminArea4: "Kingston upon Hull",
+adminArea4Type: "County",
+adminArea3: "England",
+adminArea3Type: "State",
+adminArea1: "GB",
+adminArea1Type: "Country",
+postalCode: "HU2 8QL",
+geocodeQualityCode: "B1AXX",
+geocodeQuality: "STREET",
+dragPoint: false,
+sideOfStreet: "N",
+linkId: "0",
+unknownInput: "",
+type: "s",
+latLng: {
+lat: 53.746609,
+lng: -0.34696
+},
+displayLatLng: {
+lat: 53.746609,
+lng: -0.34696
+},
+mapUrl: "http://www.mapquestapi.com/staticmap/v5/map?key=qBDY5DY7Xl3O4TXeuIFEZepJhx9SuD0q&type=map&size=225,160&locations=53.7466091,-0.3469598|marker-sm-50318A-3&scalebar=true&zoom=15&rand=1967194341"
+},
+{
+street: "Lombard Street",
+adminArea6: "Newark CP",
+adminArea6Type: "Neighborhood",
+adminArea5: "Nottinghamshire",
+adminArea5Type: "City",
+adminArea4: "",
+adminArea4Type: "County",
+adminArea3: "England",
+adminArea3Type: "State",
+adminArea1: "GB",
+adminArea1Type: "Country",
+postalCode: "NG24 1XP",
+geocodeQualityCode: "B1AXX",
+geocodeQuality: "STREET",
+dragPoint: false,
+sideOfStreet: "N",
+linkId: "0",
+unknownInput: "",
+type: "s",
+latLng: {
+lat: 53.075089,
+lng: -0.81172
+},
+displayLatLng: {
+lat: 53.075089,
+lng: -0.81172
+},
+mapUrl: "http://www.mapquestapi.com/staticmap/v5/map?key=qBDY5DY7Xl3O4TXeuIFEZepJhx9SuD0q&type=map&size=225,160&locations=53.0750889,-0.8117204|marker-sm-50318A-4&scalebar=true&zoom=15&rand=524166460"
+},
+{
+street: "Lombard Street",
+adminArea6: "Bishopwearmouth",
+adminArea6Type: "Neighborhood",
+adminArea5: "Sunderland",
+adminArea5Type: "City",
+adminArea4: "Tyne and Wear",
+adminArea4Type: "County",
+adminArea3: "England",
+adminArea3Type: "State",
+adminArea1: "GB",
+adminArea1Type: "Country",
+postalCode: "SR1 2HE",
+geocodeQualityCode: "B1AXX",
+geocodeQuality: "STREET",
+dragPoint: false,
+sideOfStreet: "N",
+linkId: "0",
+unknownInput: "",
+type: "s",
+latLng: {
+lat: 54.907128,
+lng: -1.371083
+},
+displayLatLng: {
+lat: 54.907128,
+lng: -1.371083
+},
+mapUrl: "http://www.mapquestapi.com/staticmap/v5/map?key=qBDY5DY7Xl3O4TXeuIFEZepJhx9SuD0q&type=map&size=225,160&locations=54.9071275,-1.3710835|marker-sm-50318A-5&scalebar=true&zoom=15&rand=-1830239865"
+},
+{
+street: "Lombard Street",
+adminArea6: "Horton Kirby and South Darenth",
+adminArea6Type: "Neighborhood",
+adminArea5: "Sevenoaks",
+adminArea5Type: "City",
+adminArea4: "Kent",
+adminArea4Type: "County",
+adminArea3: "England",
+adminArea3Type: "State",
+adminArea1: "GB",
+adminArea1Type: "Country",
+postalCode: "DA4 9DD",
+geocodeQualityCode: "B1AXX",
+geocodeQuality: "STREET",
+dragPoint: false,
+sideOfStreet: "N",
+linkId: "0",
+unknownInput: "",
+type: "s",
+latLng: {
+lat: 51.390351,
+lng: 0.244126
+},
+displayLatLng: {
+lat: 51.390351,
+lng: 0.244126
+},
+mapUrl: "http://www.mapquestapi.com/staticmap/v5/map?key=qBDY5DY7Xl3O4TXeuIFEZepJhx9SuD0q&type=map&size=225,160&locations=51.3903507,0.2441264|marker-sm-50318A-6&scalebar=true&zoom=15&rand=1344302074"
+},
+{
+street: "Lombard Street",
+adminArea6: "Cliftonville",
+adminArea6Type: "Neighborhood",
+adminArea5: "Thanet",
+adminArea5Type: "City",
+adminArea4: "Kent",
+adminArea4Type: "County",
+adminArea3: "England",
+adminArea3Type: "State",
+adminArea1: "GB",
+adminArea1Type: "Country",
+postalCode: "CT9 1EJ",
+geocodeQualityCode: "B1AXX",
+geocodeQuality: "STREET",
+dragPoint: false,
+sideOfStreet: "N",
+linkId: "0",
+unknownInput: "",
+type: "s",
+latLng: {
+lat: 51.38917,
+lng: 1.382369
+},
+displayLatLng: {
+lat: 51.38917,
+lng: 1.382369
+},
+mapUrl: "http://www.mapquestapi.com/staticmap/v5/map?key=qBDY5DY7Xl3O4TXeuIFEZepJhx9SuD0q&type=map&size=225,160&locations=51.3891702,1.3823688|marker-sm-50318A-7&scalebar=true&zoom=15&rand=1225995466"
+},
+{
+street: "Lombard Street",
+adminArea6: "Lenton",
+adminArea6Type: "Neighborhood",
+adminArea5: "Wollaton",
+adminArea5Type: "City",
+adminArea4: "",
+adminArea4Type: "County",
+adminArea3: "England",
+adminArea3Type: "State",
+adminArea1: "GB",
+adminArea1Type: "Country",
+postalCode: "NG7 1RQ",
+geocodeQualityCode: "B1AXX",
+geocodeQuality: "STREET",
+dragPoint: false,
+sideOfStreet: "N",
+linkId: "0",
+unknownInput: "",
+type: "s",
+latLng: {
+lat: 52.949925,
+lng: -1.172815
+},
+displayLatLng: {
+lat: 52.949925,
+lng: -1.172815
+},
+mapUrl: "http://www.mapquestapi.com/staticmap/v5/map?key=qBDY5DY7Xl3O4TXeuIFEZepJhx9SuD0q&type=map&size=225,160&locations=52.9499251,-1.1728155|marker-sm-50318A-8&scalebar=true&zoom=15&rand=-951365950"
+},
+{
+street: "Lombard Street",
+adminArea6: "Yarborough",
+adminArea6Type: "Neighborhood",
+adminArea5: "Bradley",
+adminArea5Type: "City",
+adminArea4: "North East Lincolnshire",
+adminArea4Type: "County",
+adminArea3: "England",
+adminArea3Type: "State",
+adminArea1: "GB",
+adminArea1Type: "Country",
+postalCode: "DN34 4BJ",
+geocodeQualityCode: "B1AXX",
+geocodeQuality: "STREET",
+dragPoint: false,
+sideOfStreet: "N",
+linkId: "0",
+unknownInput: "",
+type: "s",
+latLng: {
+lat: 53.5653,
+lng: -0.107961
+},
+displayLatLng: {
+lat: 53.5653,
+lng: -0.107961
+},
+mapUrl: "http://www.mapquestapi.com/staticmap/v5/map?key=qBDY5DY7Xl3O4TXeuIFEZepJhx9SuD0q&type=map&size=225,160&locations=53.5653003,-0.1079612|marker-sm-50318A-9&scalebar=true&zoom=15&rand=-736622857"
+},
+{
+street: "Lombard Street",
+adminArea6: "Lidlington",
+adminArea6Type: "Neighborhood",
+adminArea5: "Lidlington",
+adminArea5Type: "City",
+adminArea4: "Central Bedfordshire",
+adminArea4Type: "County",
+adminArea3: "England",
+adminArea3Type: "State",
+adminArea1: "GB",
+adminArea1Type: "Country",
+postalCode: "MK43 0RP",
+geocodeQualityCode: "B1AXX",
+geocodeQuality: "STREET",
+dragPoint: false,
+sideOfStreet: "N",
+linkId: "0",
+unknownInput: "",
+type: "s",
+latLng: {
+lat: 52.041129,
+lng: -0.55666
+},
+displayLatLng: {
+lat: 52.041129,
+lng: -0.55666
+},
+mapUrl: "http://www.mapquestapi.com/staticmap/v5/map?key=qBDY5DY7Xl3O4TXeuIFEZepJhx9SuD0q&type=map&size=225,160&locations=52.041129,-0.5566604|marker-sm-50318A-10&scalebar=true&zoom=15&rand=2058767337"
+}
+]
+}
+]
+}
